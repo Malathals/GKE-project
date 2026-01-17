@@ -7,8 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: git@github.com:Malathals/GKE-project.git
-    targetRevision: main
+    repoURL: https://github.com/Malathals/GKE-project.git
     path: argocd/applications
 
   destination:
